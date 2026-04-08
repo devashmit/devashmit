@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ashmit</h1>
-<h3 align="left">Undefined but Not Empty — Writing the algorithm as I go.</h3>
+<h3 align="left">Undefined but Not Empty - Writing the algorithm as I go.</h3>
 
 <img align="right" alt="ashmit gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdiNGxkd2hqMWNzYmtiYWdpdHRzOHF6OWc5OGR6anBsd3I2anlmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" width="380"/>
 
