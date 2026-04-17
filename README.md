@@ -1,10 +1,11 @@
 <h1>Hi, I'm Ashmit 👋</h1>
 
 ```
-// undefined but not empty - writing the algorithm as I go
+Writing code that works, unlike my life decisions.
 ```
 
-**Full Stack Developer** focused on usable interfaces, dependable backend systems, and polished developer experience.
+Full Stack Developer crafting intuitive interfaces, rock-solid backends, and developer experiences that don’t suck.
+Professional at fixing what’s broken in code. Amateur at fixing what’s broken in me...
 
 <p>
   <a href="https://linkedin.com/in/abhishek-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,11 +17,11 @@
 <img align="right" src="https://media0.giphy.com/media/B4jfJqiIxvU08/giphy.gif" width="320"/>
 
 - 🔭 Still exploring the vast universe of tech
-- 🌱 Currently learning **Java · Next.js · NestJS · Django**
+- 🌱 Currently learning **Dotnet · Docker · NestJS · Django**
 - 👯 Open to collaborating on interesting projects
 - 💬 Ask me about **React · Node.js · Python · TypeScript**
 - 📫 Reach me at **devvv0264@gmail.com**
-- ⚡ Self-proclaimed modern-day philosopher. Very original, I know.
+- ⚡ Turning coffee into code and overthinking into a personality...
 
 <br clear="right"/>
 
