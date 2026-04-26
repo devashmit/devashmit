@@ -1,14 +1,14 @@
 <h1>Hi, I'm Ashmit 👋</h1>
 
 ```
-Writing code that works, unlike my life decisions.
+Writing code that works, unlike my life decisions...
 ```
 
 Full Stack Developer crafting intuitive interfaces, rock-solid backends, and developer experiences that don’t suck.
 Professional at fixing what’s broken in code. Amateur at fixing what’s broken in me...
 
 <p>
-  <a href="https://linkedin.com/in/abhishek-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abhishek-dev-5b5148357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/devashmit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:devvv0264@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=devashmit&style=for-the-badge&label=Profile+Views&color=4F8CC9"/>
@@ -71,4 +71,4 @@ Got something interesting in the works? I'm always open to building meaningful t
 Reach me at **devvv0264@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/abhishek-dev-5b5148357).
 
 
-> *"I build things by day, and question everything by night."*
+> *"I build things by day, and question everything by night..."*
