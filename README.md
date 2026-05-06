@@ -43,13 +43,13 @@ Professional at fixing what’s broken in code. Amateur at fixing what’s broke
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub streak
 
-<p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devashmit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=devashmit&theme=dark&hide_border=true&background=0d1117"/>
 </p>
-<p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashmit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
