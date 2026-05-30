@@ -24,11 +24,6 @@ Professional at fixing what’s broken in code. Amateur at fixing what’s broke
 - ⚡ Turning coffee into code and overthinking into a personality...
 
 <br clear="right"/>
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devashmit&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</p>
----
 
 ## 🛠️ Tech stack
 
