@@ -67,7 +67,6 @@ Professional at fixing what’s broken in code. Amateur at fixing what’s broke
 ## 👯 Looking to collaborate?
 
 Got something interesting in the works? I'm always open to building meaningful things together.
-Reach me at **devvv0264@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/abhishek-dev-5b5148357).
-
+Reach me at **devvv0264@gmail.com** or 
 
 > *"I build things by day, and question everything by night..."*
